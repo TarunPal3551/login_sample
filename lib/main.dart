@@ -27,8 +27,6 @@ class _MyHomePageState extends State<MyHomePage> {
     return new Scaffold(
       body: SingleChildScrollView(
         child: Column(
-
-
         children: <Widget>[
           Container(
             child: Column(
